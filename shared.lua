@@ -29,7 +29,7 @@ TEAM_CITIZEN = AddExtraTeam("Survivor", {
 	admin = 0,
 	vote = false,
 	hasLicense = false,
-	candemote = false,
+	candemote = false,asd
 	mayorCanSetSalary = true
 })
 
